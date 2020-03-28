@@ -1,5 +1,4 @@
 module.exports = {
-  pathPrefix: "/bellakosmetik",
   siteMetadata: {
     title: `Bella Kosmetik`,
     description: `Bella Kosmetik in Bremen`,
