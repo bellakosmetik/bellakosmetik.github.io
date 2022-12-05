@@ -1,7 +1,12 @@
 module.exports = {
   siteMetadata: {
     title: `bellakosmetik`,
-    siteUrl: `https://www.yourdomain.tld`,
+    siteUrl: `https://bremen.bellakosmetik.de`,
+    description: `Bellakosmetik : Kosmetikstudio in der Neustadt`,
+    image: `/images/icon.png`
   },
-  plugins: [],
+  plugins: [
+    "gatsby-plugin-image",
+    "gatsby-plugin-sharp",
+  ],
 }
