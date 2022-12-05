@@ -1,5 +1,5 @@
 module.exports = {
-  siteMetadata: {
+    siteMetadata: {
     title: `bellakosmetik`,
     siteUrl: `https://bremen.bellakosmetik.de`,
     description: `Bellakosmetik : Kosmetikstudio in der Neustadt`,
