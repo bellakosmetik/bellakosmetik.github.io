@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkbellakosmetik=self.webpackChunkbellakosmetik||[]).push([[883],{429:function(e,n,t){t.r(n),t.d(n,{Head:function(){return u}});var l=t(7294),u=function(){return l.createElement("title",null,"Page Not Found")};n.default=function(){return l.createElement("main",null,l.createElement("h1",null,"Page not found"),"Please return")}}}]);
+//# sourceMappingURL=component---src-pages-404-js-9f1e9dfa6499a617d7ed.js.map
